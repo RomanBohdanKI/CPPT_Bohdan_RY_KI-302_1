@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI302.Bohdan.Lab4","l":"MultiplyStarShip"},{"p":"KI302.Bohdan.Lab4","l":"MultiplyStarShipApp"},{"p":"KI302.Bohdan.Lab4","l":"MultiplyStarShip.StarShipColor"}];updateSearchResults();
