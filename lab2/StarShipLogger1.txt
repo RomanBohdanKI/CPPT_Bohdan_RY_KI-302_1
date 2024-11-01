@@ -1,5 +1,0 @@
-Creating a StarShip
-getStarShipName: #1 StarShip
-getStarShipColor: RED
-getEngineStatus: TURNED_OFF
-Close logger file.
