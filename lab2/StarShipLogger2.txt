@@ -1,0 +1,6 @@
+Creating a StarShip
+getStarShipName: #2 Kosmo 300
+getStarShipColor: BLACK
+Engine is set in low mode.
+getEngineStatus: LOW
+Close logger file.
